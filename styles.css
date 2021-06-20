@@ -30,5 +30,16 @@ p3 {
     width:100%;
     text-size-adjust:inherit;
 }
+p4{
+    text-align: center;
+}
+p5{
+    text-align: center;
+}
+p6{
+    text-align: center;
+}
 
+body{
+    padding:30px;
 }
