@@ -12,4 +12,23 @@ p2{
     text-align: center;
     width:100%;
     text-size-adjust:inherit;
+    padding: 30px;
+    color: black;
+    font-style:;
+    text-align: center;
+    padding: 30px;
+    margin-top: 20px;
+    background-color:;
+
+}
+p3 {
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    color:lightcyan;
+    text-align: center;
+    width:100%;
+    text-size-adjust:inherit;
+}
+
 }
