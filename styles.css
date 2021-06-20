@@ -1,5 +1,17 @@
-body{
+p1{
     background-image:url(assets/backgrounds/h_img.jpg);
-
-
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    color:lightcyan;
+    text-align: center;
+    width:100%;
+    text-size-adjust:inherit;
+}
+p2{
+    text-align: center;
+    width:100%;
+    text-size-adjust:inherit;
+    content: center;
+}
 }
