@@ -1,8 +1,8 @@
-# My-First-Website
-#### website describing me, 2021
+# Delani Studio website
+#### website showcasing Delani studio  , 2021
 #### By Nelson Mageto
 ## Description
-this website presents   Delani studio  website   
+This website presents   Delani studio  website   
 ## Setup/Installation Requirements
 1.click on the published link to access the Delani studio website 
 2.Use the toggle effect to look at the services
